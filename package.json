@@ -1,0 +1,15 @@
+{
+    "name": "05_weather",
+    "version": "1.0.0",
+    "description": "Proyecto del curso de node.js acerca de consumo de apis de clima",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Jorge Jacobo",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.18.0",
+        "yargs": "^12.0.2"
+    }
+}
